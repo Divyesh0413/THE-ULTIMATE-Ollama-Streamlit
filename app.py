@@ -3,7 +3,7 @@ import ollama
 
 # Page settings
 st.set_page_config(
-    page_title=" AI ",
+    page_title="AI",
     page_icon="🤖",
     layout="centered"
 )
