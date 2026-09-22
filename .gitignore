@@ -1,0 +1,11 @@
+# Python cache folder
+__pycache__/
+
+# Python compiled files
+*.pyc
+
+# Environment variables / secret files
+.env
+
+# VS Code settings
+.vscode/
