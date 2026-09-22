@@ -23,7 +23,43 @@ It allows users to enter a question and receive an AI-generated response using t
 
 ## 📸 Project Screenshot
 
-![THE ULTIMATE Screenshot](Screenshots/first%20impression.png)
+
+### 1. 🏠 First Impression
+
+The initial interface of **THE ULTIMATE** chatbot, showing the clean Streamlit layout and the question input section.
+
+![First Impression](Screenshots/first%20impression.png)
+
+### 2. 🤖 AI Response
+
+Shows the chatbot generating an AI-powered response to the user's question.
+
+![AI Response](Screenshots/while%20thinking.png)
+
+### 3. 🧠 AI & Machine Learning
+
+A view related to the AI and Machine Learning concepts used while developing the project.
+
+![AI and Machine Learning](Screenshots/ml.png)
+
+### 4. 🐍 Python Usage
+
+Shows the use of Python in the development of the chatbot project.
+
+![Python Usage](Screenshots/python%20use.png)
+
+### 5. 🔄 Response Generation
+
+Shows the application while processing and generating an AI response.
+
+![Response Generation](Screenshots/replacement.png)
+
+### 6. 💡 Benefits of AI
+
+Highlights the benefits and applications of Artificial Intelligence.
+
+![Benefits of AI](Screenshots/benefit%20of%20ai.png)
+
 
 ## ⚙️ Installation
 
