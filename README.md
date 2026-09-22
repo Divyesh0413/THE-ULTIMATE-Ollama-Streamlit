@@ -28,7 +28,7 @@ It allows users to enter a question and receive an AI-generated response using t
 
 The initial interface of **THE ULTIMATE** chatbot, showing the clean Streamlit layout and the question input section.
 
-![First Impression](Screenshots/first%20impression.png)
+![First Impression] (Screenshots/first impression.png)
 
 ### 2. 🤖 AI Response
 
