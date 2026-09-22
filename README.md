@@ -20,9 +20,10 @@ It allows users to enter a question and receive an AI-generated response using t
 * Ollama
 * Qwen 2.5 0.5B
 
+
 ## 📸 Project Screenshot
 
-![THE ULTIMATE Screenshot](screenshots/app.png)
+![THE ULTIMATE Screenshot](Screenshots/first%20impression.png)
 
 ## ⚙️ Installation
 
